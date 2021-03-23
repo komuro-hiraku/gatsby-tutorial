@@ -9,4 +9,4 @@ export default function About() {
       <p>Such wow. Very React.</p>
     </div>
   )
-}git 
+} 
